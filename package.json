@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/jprichardson/node-google"
   },
+  "bugs": {
+    "url": "https://github.com/soulcycle/jprichardson/node-google/issues"
+  },
   "keywords": [
     "google",
     "search",
@@ -21,7 +24,7 @@
     "request": "^2.54.0"
   },
   "devDependencies": {
-    "mocha": "^6.0.0",
+    "mocha": "2.5.3",
     "standard": "5.x"
   },
   "main": "./lib/google",
