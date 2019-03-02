@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/jprichardson/node-google"
   },
+  "bugs": {
+    "url": "https://github.com/soulcycle/jprichardson/node-google/issues"
+  },
   "keywords": [
     "google",
     "search",
